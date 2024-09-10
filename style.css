@@ -22,19 +22,21 @@ h1{
 }
 
 .title{
+    font-size: 1.1rem;
     font-weight: bold;
     margin: 10px;
 }
 
 .user-input{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     padding: 3px;
-    width: 160px;
+    width: 165px;
     margin-bottom: 15px;
 }
 
 button{
     background-color: cyan;
+    font-size: 1.4rem;
     padding: 5px 10px;
     border: 1px solid gray;
     border-radius: 5px;
